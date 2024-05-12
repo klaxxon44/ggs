@@ -1,0 +1,23 @@
+
+body {
+	padding: 0px;
+	margin: 0px;
+	background-color: black;
+}
+
+header p {
+	color:blue;
+}
+
+header {
+	border-bottom: 1px solid white;
+	height: 150px;
+	background-image: url("images.jpg");
+}
+
+
+header h1 {
+	text-align: center;
+	color:white;
+	padding-left: 420px;
+}
